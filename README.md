@@ -1,1 +1,1 @@
-# script_azurevm
+# azure vm script_azurevm
